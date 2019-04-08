@@ -1,3 +1,4 @@
+//Q7
 #include <stdio.h>
 #include <time.h>
 #include<pthread.h>
